@@ -6,7 +6,7 @@ body {
 .h1, h1 {
     font-size: 2.25rem;
     font-weight: bold;
-    color: #ab100d;
+    color: #EE0A49;
 }
 .h3, h3 {
     font-size: 1.5rem;
@@ -22,10 +22,11 @@ body {
     color: #615e62;
 }
 .hero-image {
-    background: url(../img/banner1.jpg) no-repeat center;
-    background-size: cover;
-    position: relative;
-    background: #ab160d;
+    background: url(../img/CARACOL.jpg);
+    background-position: 70% bottom;
+    background-repeat: no-repeat;
+    background-size: 350px;
+    background-color: #2A7885;
     min-height: 240px;
     padding-top: 40px;
     padding-bottom: 40px;
@@ -88,7 +89,7 @@ body {
     /*background-position: 70% bottom;*/
     /*background-repeat: no-repeat;*/
     background-size: 350px;
-    background-color: #968325;
+    background-color:  #2A7885;
     padding-top: 40px;
     padding-bottom: 40px;
 }
@@ -110,15 +111,48 @@ body {
     margin-bottom: 1.5rem;
 }
 
-.cursos h3 {
+.cursos .lead {
+    font-size: 1.5rem;
+}
+
+.fisico-matematicas {
+    padding: 20px;
+    background: #2DD0E3;
+}
+
+.fisico-matematicas-color {
+    color: #000000;
+}
+
+.geometria-grupos {
+    padding: 20px;
+    background: #EE0A49;
+    color: white;
+}
+
+.geometria-grupos-color {
+    color: #fffff;
+}
+
+.temas-generales {
+    padding: 20px;
+    background: #0F7D8A;
+    color: white;
+}
+
+.temas-generales-color {
+    color: #fffff;
+}
+
+.cursos .titulo {
     margin-top: 1.75rem;
     margin-bottom: 1px;
 }
 
 .cursos p {
     font-size: 1.2rem;
-    margin-bottom: 1.5rem;
     color: #8e0202;
+    margin-bottom: 0px;
 }
 
 #programa {
@@ -165,8 +199,9 @@ body {
 
 .organizadores h3 {
     color: white;
+    font-size: 1.75rem;
     margin-top: .75rem;
-    margin-bottom: 1px;
+    margin-bottom: .75rem;
 }
 
 .organizadores p {
