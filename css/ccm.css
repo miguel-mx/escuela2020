@@ -115,13 +115,21 @@ body {
     font-size: 1.5rem;
 }
 
+.cursos h3 {
+    color: #696969;
+}
+
+.cursos .curso-titulo {
+    color: white;
+}
+
 .fisico-matematicas {
     padding: 20px;
     background: #2DD0E3;
 }
 
 .fisico-matematicas-color {
-    color: #000000;
+    color: white;
 }
 
 .geometria-grupos {
@@ -151,7 +159,7 @@ body {
 
 .cursos p {
     font-size: 1.2rem;
-    color: #8e0202;
+    color: #ee0e49;
     margin-bottom: 0px;
 }
 
@@ -194,7 +202,7 @@ body {
 
 .organizadores h1 {
     margin-top: 10px;
-    color: #E1856E;
+    color: #17a2b8;
 }
 
 .organizadores h3 {
