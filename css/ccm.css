@@ -170,6 +170,21 @@ body {
     padding-bottom: 40px;
 }
 
+.badge-fm {
+    color: black;
+    background-color: #2DD0E3;
+}
+
+.badge-gg {
+    color: white;
+    background-color: #EE0A49;
+}
+
+.badge-tg {
+    color: white;
+    background-color: #0F7D8A;
+}
+
 .programa h1 {
     margin-top: 10px;
     color: #dc5c3c;
