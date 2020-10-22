@@ -22,11 +22,9 @@ body {
     color: #615e62;
 }
 .hero-image {
-    background: url(../img/CARACOL.jpg);
-    background-position: 70% bottom;
+    background: url(../img/escuelamatebanner.jpg);
     background-repeat: no-repeat;
-    background-size: 350px;
-    background-color: #2A7885;
+    background-size: cover;
     min-height: 240px;
     padding-top: 40px;
     padding-bottom: 40px;
@@ -115,13 +113,21 @@ body {
     font-size: 1.5rem;
 }
 
+.cursos h3 {
+    color: #696969;
+}
+
+.cursos .curso-titulo {
+    color: white;
+}
+
 .fisico-matematicas {
     padding: 20px;
     background: #2DD0E3;
 }
 
 .fisico-matematicas-color {
-    color: #000000;
+    color: white;
 }
 
 .geometria-grupos {
@@ -151,7 +157,7 @@ body {
 
 .cursos p {
     font-size: 1.2rem;
-    color: #8e0202;
+    color: #ee0e49;
     margin-bottom: 0px;
 }
 
@@ -160,14 +166,14 @@ body {
     /*background-position: 80% bottom;*/
     /*background-repeat: no-repeat;*/
     background-size: 350px;
-    background-color: antiquewhite;
+    background-color: #d0d0d0;
     padding-top: 40px;
     padding-bottom: 40px;
 }
 
 .programa h1 {
     margin-top: 10px;
-    color: #E1856E;
+    color: #dc5c3c;
 }
 
 .programa h3 {
@@ -182,19 +188,30 @@ body {
     margin-bottom: 1.5rem;
 }
 
+.programa .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    color: #004f9e;
+    background-color: #a5bbe4;
+    border-color: #495057 #495057 #495057;
+    font-size: 1.2rem;
+}
+
+.programa .table td, .table th {
+    border-top: 1px solid #127d8a;
+}
+
 #organizadores {
     /*background-image: url(../img/banner3.png);*/
     /*background-position: 80% bottom;*/
     /*background-repeat: no-repeat;*/
     background-size: 350px;
-    background-color: #242795;
+    background-color: #245195;
     padding-top: 40px;
     padding-bottom: 40px;
 }
 
 .organizadores h1 {
     margin-top: 10px;
-    color: #E1856E;
+    color: #17a2b8;
 }
 
 .organizadores h3 {
@@ -205,7 +222,7 @@ body {
 }
 
 .organizadores p {
-    color: lightblue;
+    color: #6bc8e6;
     font-size: 1.2rem;
     margin-bottom: 1.5rem;
 }
