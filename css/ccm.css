@@ -114,7 +114,7 @@ body {
 }
 
 .cursos h3 {
-    color: #696969;
+    color: #333333;
 }
 
 .cursos .curso-titulo {
@@ -157,7 +157,6 @@ body {
 
 .cursos p {
     font-size: 1.2rem;
-    color: #ee0e49;
     margin-bottom: 0px;
 }
 
