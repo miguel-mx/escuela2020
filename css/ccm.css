@@ -22,9 +22,11 @@ body {
     color: #615e62;
 }
 .hero-image {
-    background: url(../img/escuelamatebanner.jpg);
+    background-image: url(../img/espiral.png);
+    background-position: 65% bottom;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 350px;
+    background-color: #2A7885;
     min-height: 240px;
     padding-top: 40px;
     padding-bottom: 40px;
@@ -165,7 +167,7 @@ body {
     /*background-position: 80% bottom;*/
     /*background-repeat: no-repeat;*/
     background-size: 350px;
-    background-color: #d0d0d0;
+    background-color: #92bfc5;
     padding-top: 40px;
     padding-bottom: 40px;
 }
