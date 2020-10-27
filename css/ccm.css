@@ -167,7 +167,7 @@ body {
     /*background-position: 80% bottom;*/
     /*background-repeat: no-repeat;*/
     background-size: 350px;
-    background-color: #92bfc5;
+    background-color: #e4e4e4;
     padding-top: 40px;
     padding-bottom: 40px;
 }
@@ -253,7 +253,7 @@ body {
 
 .footer {
     margin-top: 20px;
-    background-color: #343a40!important;
+    /*background-color: #343a40!important;*/
     padding-top: 50px;
     padding-bottom: 50px;
 }
